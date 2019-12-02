@@ -1,0 +1,17 @@
+com\alejandro\springboot\app\controllers\FacturaController.class
+com\alejandro\springboot\app\models\entity\Factura.class
+com\alejandro\springboot\app\models\dao\IClienteDao.class
+com\alejandro\springboot\app\util\paginator\PageRender.class
+com\alejandro\springboot\app\proyecto_daw_01Application.class
+com\alejandro\springboot\app\util\paginator\PageItem.class
+com\alejandro\springboot\app\models\entity\Cliente.class
+com\alejandro\springboot\app\MvcConfig.class
+com\alejandro\springboot\app\controllers\ClienteController.class
+com\alejandro\springboot\app\models\dao\IProductoDao.class
+com\alejandro\springboot\app\models\entity\ItemFactura.class
+com\alejandro\springboot\app\controllers\LoginController.class
+com\alejandro\springboot\app\models\entity\Producto.class
+com\alejandro\springboot\app\models\dao\IFacturaDao.class
+com\alejandro\springboot\app\models\service\ClienteServiceImpl.class
+com\alejandro\springboot\app\models\UserCredentials.class
+com\alejandro\springboot\app\models\service\IClienteService.class

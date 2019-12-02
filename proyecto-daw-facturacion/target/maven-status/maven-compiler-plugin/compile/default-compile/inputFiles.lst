@@ -1,0 +1,17 @@
+C:\Users\yo\eclipse-workspace\proyecto_daw_2\src\main\java\com\alejandro\springboot\app\controllers\FacturaController.java
+C:\Users\yo\eclipse-workspace\proyecto_daw_2\src\main\java\com\alejandro\springboot\app\controllers\LoginController.java
+C:\Users\yo\eclipse-workspace\proyecto_daw_2\src\main\java\com\alejandro\springboot\app\models\entity\Producto.java
+C:\Users\yo\eclipse-workspace\proyecto_daw_2\src\main\java\com\alejandro\springboot\app\util\paginator\PageRender.java
+C:\Users\yo\eclipse-workspace\proyecto_daw_2\src\main\java\com\alejandro\springboot\app\models\entity\Factura.java
+C:\Users\yo\eclipse-workspace\proyecto_daw_2\src\main\java\com\alejandro\springboot\app\models\entity\Cliente.java
+C:\Users\yo\eclipse-workspace\proyecto_daw_2\src\main\java\com\alejandro\springboot\app\controllers\ClienteController.java
+C:\Users\yo\eclipse-workspace\proyecto_daw_2\src\main\java\com\alejandro\springboot\app\models\service\ClienteServiceImpl.java
+C:\Users\yo\eclipse-workspace\proyecto_daw_2\src\main\java\com\alejandro\springboot\app\util\paginator\PageItem.java
+C:\Users\yo\eclipse-workspace\proyecto_daw_2\src\main\java\com\alejandro\springboot\app\proyecto_daw_01Application.java
+C:\Users\yo\eclipse-workspace\proyecto_daw_2\src\main\java\com\alejandro\springboot\app\models\entity\ItemFactura.java
+C:\Users\yo\eclipse-workspace\proyecto_daw_2\src\main\java\com\alejandro\springboot\app\models\dao\IClienteDao.java
+C:\Users\yo\eclipse-workspace\proyecto_daw_2\src\main\java\com\alejandro\springboot\app\models\service\IClienteService.java
+C:\Users\yo\eclipse-workspace\proyecto_daw_2\src\main\java\com\alejandro\springboot\app\models\UserCredentials.java
+C:\Users\yo\eclipse-workspace\proyecto_daw_2\src\main\java\com\alejandro\springboot\app\MvcConfig.java
+C:\Users\yo\eclipse-workspace\proyecto_daw_2\src\main\java\com\alejandro\springboot\app\models\dao\IFacturaDao.java
+C:\Users\yo\eclipse-workspace\proyecto_daw_2\src\main\java\com\alejandro\springboot\app\models\dao\IProductoDao.java

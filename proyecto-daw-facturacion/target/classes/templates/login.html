@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:replace="layout/layout :: head"></head>
+
+
+
+<body style="background:#f9f9f9">
+
+<div class="container">
+
+
+<div class="logo text-center mt-5 ">
+	<span class="text-danger display-5"></span>
+	<h2 class="text-info">FACTURAS ON-LINE</h2>
+	
+	
+</div>
+
+	<div class="row justify-content-center mt-5">
+	
+	
+
+		<div class="col-md-6">
+		
+		  			<div th:if="${error!=null}" class="alert alert-danger" role="alert">
+				   		Credenciales incorrectas!
+					</div>
+			
+		
+			<div class="card ">
+			
+			 
+				<div class="card-header">LOGIN</div>
+				
+				<form th:action="@{/logincheck}" th:object="${userCredentials}" method="POST">
+				
+				
+					<div  class="card-body">
+						<div class="row form-group">
+							<label for="usuario" class="col-md-3">Usuario </label>
+							<input type="text" name="usuario" maxlength="5" class="form-control col-md-6" th:field="*{usuario}" />
+						</div>
+						
+						<div class="row form-group">
+							<label for="password" class="col-md-3">Contraseña </label>
+							<input type="password" maxlength="9" name="password" class="form-control col-md-6" th:field="*{password}"  />
+						</div>
+				   </div>
+				   
+				
+				   
+				   <div class=" row form-group justify-content-center">
+				   		<div class=" col-md-6 ">
+				   	  		<input type="submit" value="Login" class="btn btn-info btn-block  " />
+				   		</div>
+				   </div>
+				   
+				</form>
+			</div>
+		
+		
+
+
+		</div>
+	</div>
+	
+	</div>
+	
+
+
+
+
+
+	
+
+
+	<footer th:replace="layout/layout :: footer"></footer>
+</body>
+</html>
